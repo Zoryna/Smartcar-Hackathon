@@ -1,5 +1,5 @@
 button {
-  width: 100%;
+  width: 80%;
   background-color: #99A891;
   color: white;
   padding: 14px 20px;
@@ -7,4 +7,12 @@ button {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #92A08A;
+}
+
+body {
+  text-align: center;
 }

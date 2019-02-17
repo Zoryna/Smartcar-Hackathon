@@ -1,16 +1,16 @@
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <!--<link rel="stylesheet" type="text/css" href="css/index.css"> -->
         <link rel="stylesheet" type="text/css" href="css/location.css">
         <title>Save The Day</title>
     </head>
     <body>
+      <div style="width:100%; height:75%" id="map_canvas"></div>
+      <param id="address" value="1901 W Madison St, Chicago, IL 60612">
         <div class="app">
           <button onclick="ride.html"> Send Current Location <br>to Tow Service </button>
         </div>
-        <div id="map_canvas"></div>
-        <param id="address" value="1901 W Madison St, Chicago, IL 60612">
-
+        <script type="text/javascript" src="js/map.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>

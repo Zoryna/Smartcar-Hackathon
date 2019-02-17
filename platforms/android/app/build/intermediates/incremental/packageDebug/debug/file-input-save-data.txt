@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Feb 16 20:11:43 CST 2019
+#Sun Feb 17 07:39:43 CST 2019
 56.path=www/plugins/cordova-plugin-googlemaps/www/commandQueueExecutor.js
 5.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 42.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
@@ -10,6 +10,7 @@
 36.baseType=DIRECTORY
 18.baseType=DIRECTORY
 27.baseType=DIRECTORY
+64.baseType=DIRECTORY
 55.baseType=DIRECTORY
 46.baseType=DIRECTORY
 9.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
@@ -41,7 +42,7 @@
 8.set=ASSET
 46.set=ASSET
 7.baseType=DIRECTORY
-63.path=www/plugins/cordova-plugin-googlemaps/www/Environment.js
+63.path=www/plugins/cordova-plugin-googlemaps/www/Cluster.js
 35.set=ASSET
 2.path=www/ride.html
 16.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/1
@@ -57,6 +58,7 @@
 13.set=ASSET
 53.path=lib/mips64/libtbxml.so
 2.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
+64.set=ASSET
 8.baseType=DIRECTORY
 47.path=www/towlocation.html
 53.set=NATIVE_RESOURCE
@@ -88,7 +90,7 @@
 17.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 27.set=ASSET
 60.set=ASSET
-count=64
+count=65
 27.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 16.set=NATIVE_RESOURCE
 37.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
@@ -99,6 +101,7 @@ count=64
 0.set=ASSET
 13.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 56.set=ASSET
+64.path=www/plugins/cordova-plugin-googlemaps/www/Environment.js
 0.baseType=DIRECTORY
 7.set=ASSET
 45.set=ASSET
@@ -108,6 +111,7 @@ count=64
 34.set=ASSET
 60.path=www/plugins/cordova-plugin-googlemaps/www/TileOverlay.js
 7.path=www/index.html
+64.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 44.path=lib/armeabi/libtbxml.so
 23.set=ASSET
 12.baseType=DIRECTORY
@@ -177,7 +181,7 @@ count=64
 51.path=www/cordova_plugins.js
 0.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 44.set=NATIVE_RESOURCE
-61.path=www/cordova-js-src/platform.js
+61.path=www/js/map.js
 8.path=www/plugins/cordova-plugin-googlemaps/www/CameraPosition.js
 45.path=www/plugins/cordova-plugin-googlemaps/www/BaseArrayClass.js
 33.set=ASSET
@@ -235,7 +239,7 @@ count=64
 11.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 36.set=ASSET
 39.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
-62.path=www/plugins/cordova-plugin-googlemaps/www/Cluster.js
+62.path=www/cordova-js-src/platform.js
 1.path=lib/armeabi-v7a/libtbxml.so
 25.set=ASSET
 15.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
