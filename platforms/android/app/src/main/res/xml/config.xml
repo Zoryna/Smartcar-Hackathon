@@ -51,6 +51,9 @@
     <feature name="PluginStreetViewPanorama">
         <param name="android-package" value="plugin.google.maps.PluginStreetViewPanorama" />
     </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
     <name>smartcar</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -70,5 +73,5 @@
     <preference name="loglevel" value="DEBUG" />
     <preference name="xwalkZOrderOnTop" value="true" />
     <preference name="BackgroundColor" value="0" />
-    <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-minSdkVersion" value="16" />
 </widget>

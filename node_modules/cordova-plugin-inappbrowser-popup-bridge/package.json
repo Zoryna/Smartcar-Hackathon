@@ -1,0 +1,73 @@
+{
+  "_from": "cordova-plugin-inappbrowser-popup-bridge@1.0.18",
+  "_id": "cordova-plugin-inappbrowser-popup-bridge@1.0.18",
+  "_inBundle": false,
+  "_integrity": "sha512-kWBt++dVp0KxJ4/vYMHVHUKqCcZx2c7SypyUvj33n67eYVskKpMm/CAJNUIpa9fyavy9/VvBVGhy1Eme2ZPhnw==",
+  "_location": "/cordova-plugin-inappbrowser-popup-bridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-inappbrowser-popup-bridge@1.0.18",
+    "name": "cordova-plugin-inappbrowser-popup-bridge",
+    "escapedName": "cordova-plugin-inappbrowser-popup-bridge",
+    "rawSpec": "1.0.18",
+    "saveSpec": null,
+    "fetchSpec": "1.0.18"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-inappbrowser-popup-bridge/-/cordova-plugin-inappbrowser-popup-bridge-1.0.18.tgz",
+  "_shasum": "dad79a151953139537658517a8e6760ef40e3887",
+  "_spec": "cordova-plugin-inappbrowser-popup-bridge@1.0.18",
+  "_where": "/Users/linmaliakal/Desktop/Smartcar-Hackathon",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/cordova-plugin-inappbrowser-popup-bridge/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-inappbrowser-popup-bridge",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova InAppBrowser PopupBridge Plugin",
+  "engines": {
+    "cordovaDependencies": {
+      "0.2.3": {
+        "cordova": ">=3.1.0"
+      },
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/dpa99c/cordova-plugin-inappbrowser-popup-bridge#readme",
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "paypal",
+    "braintree"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-inappbrowser-popup-bridge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/cordova-plugin-inappbrowser-popup-bridge.git"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.18"
+}

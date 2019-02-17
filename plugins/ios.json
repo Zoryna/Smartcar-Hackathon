@@ -18,6 +18,9 @@
       "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
       "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background.",
       "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-inappbrowser-popup-bridge": {
+      "PACKAGE_NAME": "com.example.test"
     }
   },
   "dependent_plugins": {}

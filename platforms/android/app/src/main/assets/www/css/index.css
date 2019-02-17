@@ -114,7 +114,7 @@ input[type=number], select {
 
 input[type=submit] {
   width: 100%;
-  background-color: #99A891;
+  background-color: #3779B7;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -124,7 +124,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #92A08A;
+  background-color: #316DA5;
 }
 
 .create_event{

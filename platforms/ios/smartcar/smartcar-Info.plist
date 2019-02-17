@@ -75,6 +75,16 @@
           <string>com.example.test</string>
         </array>
       </dict>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string/>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>com.example.test.popupbridge</string>
+        </array>
+      </dict>
     </array>
   </dict>
 </plist>

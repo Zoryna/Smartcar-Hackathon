@@ -242,6 +242,15 @@ module.exports = [
     "file": "plugins/cordova-plugin-googlemaps/www/js_CordovaGoogleMaps-for-android_ios.js",
     "pluginId": "cordova-plugin-googlemaps",
     "runs": true
+  },
+  {
+    "id": "cordova-plugin-inappbrowser-popup-bridge.inappbrowser",
+    "file": "plugins/cordova-plugin-inappbrowser-popup-bridge/www/inappbrowser.js",
+    "pluginId": "cordova-plugin-inappbrowser-popup-bridge",
+    "clobbers": [
+      "cordova.InAppBrowser.open",
+      "window.open"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -249,7 +258,8 @@ module.exports.metadata =
 {
   "cordova-plugin-whitelist": "1.3.3",
   "cordova-plugin-geolocation": "4.0.1",
-  "cordova-plugin-googlemaps": "2.5.0"
+  "cordova-plugin-googlemaps": "2.5.0",
+  "cordova-plugin-inappbrowser-popup-bridge": "1.0.18"
 };
 // BOTTOM OF METADATA
 });

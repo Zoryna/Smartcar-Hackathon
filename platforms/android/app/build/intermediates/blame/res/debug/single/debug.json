@@ -8,16 +8,28 @@
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_remove.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-hdpi/ic_action_remove.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -58,6 +70,10 @@
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
         "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_next_item.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
@@ -104,12 +120,12 @@
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
-        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
-    },
-    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
@@ -166,6 +182,10 @@
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_remove.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
@@ -232,12 +252,24 @@
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_next_item.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -250,6 +282,10 @@
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-mdpi/ic_action_previous_item.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
@@ -308,6 +344,10 @@
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
         "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
@@ -360,6 +400,10 @@
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
         "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
     },
@@ -406,6 +450,10 @@
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
         "source": "/Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_remove.png.flat",
+        "source": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/res/drawable-mdpi/ic_action_remove.png"
     },
     {
         "merged": "/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",

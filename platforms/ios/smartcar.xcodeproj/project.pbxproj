@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Images.xcassets */; };
 		02E27072471145C7AF941F1A /* PluginEnvironment.m in Sources */ = {isa = PBXBuildFile; fileRef = 67EB2FF386484398AA623912 /* PluginEnvironment.m */; };
@@ -56,6 +55,10 @@
 		EB4E43FB6F7F4B1593EEEFB9 /* PluginMap.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AA491EDCD9F435A905BE736 /* PluginMap.m */; };
 		EB7A209CD6E34789AD09B8DC /* pgm_Localizable_pt-BR.json in Resources */ = {isa = PBXBuildFile; fileRef = B1C4FC973AF64B8EBDF7CB8D /* pgm_Localizable_pt-BR.json */; };
 		F9482B16CC054510A4B8EFC4 /* pgm_Localizable_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = 6BCD2DB6CC0945BAB1909F86 /* pgm_Localizable_ar.json */; };
+		40F8CB665A024DED90442F5B /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5118C6C2BD7E4A95AE2793A1 /* CDVInAppBrowser.m */; };
+		9988733319494DF097534349 /* CDVInAppBrowserUIDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B82D6A364D004CB5A23F6CEF /* CDVInAppBrowserUIDelegate.m */; };
+		04B413BEA27B4BA681F6B440 /* AppDelegate+PopupBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B659DA580D149D8B5D8F0B1 /* AppDelegate+PopupBridge.m */; };
+		A3022DC395FB4FC2B2CEC90F /* POPPopUpBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 4914D01A4F974F819DE7A075 /* POPPopUpBridge.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -166,6 +169,14 @@
 		F97C26F9A7F7431C9CA576A7 /* PluginMarker.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = PluginMarker.h; path = "cordova-plugin-googlemaps/PluginMarker.h"; sourceTree = "<group>"; };
 		FAC56E1403CA45F29059DC6A /* pgm_Localizable_fr.json */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = pgm_Localizable_fr.json; path = pgm_Localizable_fr.json; sourceTree = "<group>"; };
 		FE4AF4FDCA3F4E0083F8E8D0 /* PluginTileOverlay.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = PluginTileOverlay.m; path = "cordova-plugin-googlemaps/PluginTileOverlay.m"; sourceTree = "<group>"; };
+		5118C6C2BD7E4A95AE2793A1 /* CDVInAppBrowser.m */ = {isa = PBXFileReference; name = "CDVInAppBrowser.m"; path = "cordova-plugin-inappbrowser-popup-bridge/CDVInAppBrowser.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		B82D6A364D004CB5A23F6CEF /* CDVInAppBrowserUIDelegate.m */ = {isa = PBXFileReference; name = "CDVInAppBrowserUIDelegate.m"; path = "cordova-plugin-inappbrowser-popup-bridge/CDVInAppBrowserUIDelegate.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		4B659DA580D149D8B5D8F0B1 /* AppDelegate+PopupBridge.m */ = {isa = PBXFileReference; name = "AppDelegate+PopupBridge.m"; path = "cordova-plugin-inappbrowser-popup-bridge/AppDelegate+PopupBridge.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		4914D01A4F974F819DE7A075 /* POPPopUpBridge.m */ = {isa = PBXFileReference; name = "POPPopUpBridge.m"; path = "cordova-plugin-inappbrowser-popup-bridge/POPPopUpBridge.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		02808FE70FFF477996C7227B /* CDVInAppBrowser.h */ = {isa = PBXFileReference; name = "CDVInAppBrowser.h"; path = "cordova-plugin-inappbrowser-popup-bridge/CDVInAppBrowser.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		DA3DEDD640044EACB00C20E2 /* CDVInAppBrowserUIDelegate.h */ = {isa = PBXFileReference; name = "CDVInAppBrowserUIDelegate.h"; path = "cordova-plugin-inappbrowser-popup-bridge/CDVInAppBrowserUIDelegate.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		1BFF669BD678465881BC3FAC /* AppDelegate+PopupBridge.h */ = {isa = PBXFileReference; name = "AppDelegate+PopupBridge.h"; path = "cordova-plugin-inappbrowser-popup-bridge/AppDelegate+PopupBridge.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		FABE9D2923BE45B99F85DCEA /* POPPopUpBridge.h */ = {isa = PBXFileReference; name = "POPPopUpBridge.h"; path = "cordova-plugin-inappbrowser-popup-bridge/POPPopUpBridge.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -342,6 +353,14 @@
 				4BD9733327B84706B4AF4E3B /* PluginViewController.h */,
 				9C86D895F5CA4DC3A9FE6BE2 /* IPluginView.h */,
 				B98A7B05947847BD82765BAA /* IPluginProtocol.h */,
+				5118C6C2BD7E4A95AE2793A1 /* CDVInAppBrowser.m */,
+				B82D6A364D004CB5A23F6CEF /* CDVInAppBrowserUIDelegate.m */,
+				4B659DA580D149D8B5D8F0B1 /* AppDelegate+PopupBridge.m */,
+				4914D01A4F974F819DE7A075 /* POPPopUpBridge.m */,
+				02808FE70FFF477996C7227B /* CDVInAppBrowser.h */,
+				DA3DEDD640044EACB00C20E2 /* CDVInAppBrowserUIDelegate.h */,
+				1BFF669BD678465881BC3FAC /* AppDelegate+PopupBridge.h */,
+				FABE9D2923BE45B99F85DCEA /* POPPopUpBridge.h */,
 			);
 			name = Plugins;
 			path = smartcar/Plugins;
@@ -548,6 +567,10 @@
 				3D894A517DAA426AABC86D62 /* PluginStreetViewPanorama.m in Sources */,
 				E073784942434578BC23B21D /* PluginStreetViewPanoramaController.m in Sources */,
 				047A41622AFC410D9FD18ACD /* PluginViewController.m in Sources */,
+				40F8CB665A024DED90442F5B /* CDVInAppBrowser.m in Sources */,
+				9988733319494DF097534349 /* CDVInAppBrowserUIDelegate.m in Sources */,
+				04B413BEA27B4BA681F6B440 /* AppDelegate+PopupBridge.m in Sources */,
+				A3022DC395FB4FC2B2CEC90F /* POPPopUpBridge.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

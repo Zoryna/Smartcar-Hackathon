@@ -18,6 +18,9 @@
       "PLAY_SERVICES_VERSION": "15.0.1",
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-inappbrowser-popup-bridge": {
+      "PACKAGE_NAME": "com.example.test"
     }
   },
   "dependent_plugins": {}

@@ -1,6 +1,6 @@
 button {
   width: 80%;
-  background-color: #99A891;
+  background-color: #3779B7;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -10,11 +10,12 @@ button {
 }
 
 button:hover {
-  background-color: #92A08A;
+  background-color: #316DA5;
 }
 
 body {
   text-align: center;
+  align-items: center;
 }
 
 .switch {

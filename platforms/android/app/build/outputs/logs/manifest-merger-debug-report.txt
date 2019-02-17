@@ -1,9 +1,14 @@
 -- Merging decision tree log ---
+data
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:17-71
+	android:scheme
+		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:23-68
 manifest
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:2:1-9:12
@@ -14,14 +19,16 @@ MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmal
 MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.braintreepayments:popup-bridge:1.2.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/popup-bridge-1.2.0.aar/5dc4f815db73a4bfc0b5e9f409c09fa6/AndroidManifest.xml:2:1-11:12
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.braintreepayments:browser-switch:0.1.6] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/browser-switch-0.1.6.aar/a3e45eed4c5314d776942f6c67f3ba36/AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:102-128
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
@@ -30,6 +37,8 @@ INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/ap
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:188-234
 	android:hardwareAccelerated
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
 	xmlns:android
@@ -59,7 +68,7 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliaka
 	android:name
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:5:5-15:19
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:7:5-20
@@ -134,9 +143,29 @@ ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/s
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:14:61-85
 	android:name
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:14:23-60
+activity#com.braintreepayments.popupbridge.PopupBridgeActivity
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:launchMode
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:15:19-50
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:15:51-119
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:13-21:29
+action#android.intent.action.VIEW
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:27-75
 uses-sdk
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:5-132
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:5-132
 MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:7:5-9:41
 MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:20:5-44
@@ -157,6 +186,8 @@ MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gr
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:20:5-44
+MERGED from [com.braintreepayments:popup-bridge:1.2.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/popup-bridge-1.2.0.aar/5dc4f815db73a4bfc0b5e9f409c09fa6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:popup-bridge:1.2.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/popup-bridge-1.2.0.aar/5dc4f815db73a4bfc0b5e9f409c09fa6/AndroidManifest.xml:7:5-9:41
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:21:5-23:63
@@ -165,47 +196,49 @@ MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gra
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.braintreepayments:browser-switch:0.1.6] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/browser-switch-0.1.6.aar/a3e45eed4c5314d776942f6c67f3ba36/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:browser-switch:0.1.6] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/browser-switch-0.1.6.aar/a3e45eed4c5314d776942f6c67f3ba36/AndroidManifest.xml:7:5-9:41
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:20:5-44
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:5-132
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:23:9-51
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:72-129
 	android:targetSdkVersion
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:42-71
 	android:minSdkVersion
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:24:15-41
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:5-81
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:25:5-81
 	android:name
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:22-78
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:25:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:5-79
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:22-76
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:26:22-76
 uses-feature#android.hardware.location.gps
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:5-66
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:27:5-66
 	android:name
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:19-63
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:27:19-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:5-79
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:28:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:22-76
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:28:22-76
 uses-feature#0x00020000
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:5-78
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:29:5-78
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:26:5-28:35
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:19-51
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:29:19-51
 	android:required
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:52-75
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:29:52-75
 uses-feature#android.hardware.location
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:22:5-62
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:30:5-62
 	android:name
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:22:19-59
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:30:19-59
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:23:9-26:75
 	android:exported

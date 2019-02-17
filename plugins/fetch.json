@@ -24,5 +24,13 @@
     "variables": {
       "API_KEY_FOR_IOS": "AIzaSyAJvu6NNm1yswEZ3tsKYzCC1CExZRUy4JA"
     }
+  },
+  "cordova-plugin-inappbrowser-popup-bridge": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-inappbrowser-popup-bridge@1.0.18"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }

@@ -71,6 +71,10 @@
             {
               "xml": "<feature name=\"PluginStreetViewPanorama\"><param name=\"android-package\" value=\"plugin.google.maps.PluginStreetViewPanorama\" /></feature>",
               "count": 1
+            },
+            {
+              "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
+              "count": 1
             }
           ]
         }
@@ -102,6 +106,10 @@
             },
             {
               "xml": "<uses-library android:name=\"org.apache.http.legacy\" android:required=\"false\" />",
+              "count": 1
+            },
+            {
+              "xml": "<activity android:launchMode=\"singleTask\" android:name=\"com.braintreepayments.popupbridge.PopupBridgeActivity\"><intent-filter><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /><data android:scheme=\"${applicationId}.popupbridge\" /></intent-filter></activity>",
               "count": 1
             }
           ],
@@ -151,6 +159,10 @@
             {
               "xml": "<preference name=\"android-minSdkVersion\" value=\"19\" />",
               "count": 1
+            },
+            {
+              "xml": "<preference name=\"android-minSdkVersion\" tools:overrideLibrary=\"com.braintreepayments.popupbridge\" value=\"16\" />",
+              "count": 1
             }
           ]
         }
@@ -168,6 +180,9 @@
       "API_KEY_FOR_ANDROID": "AIzaSyAJvu6NNm1yswEZ3tsKYzCC1CExZRUy4JA",
       "PLAY_SERVICES_VERSION": "15.0.1",
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-inappbrowser-popup-bridge": {
       "PACKAGE_NAME": "com.example.test"
     }
   },
@@ -415,11 +430,21 @@
       "file": "plugins/cordova-plugin-googlemaps/www/js_CordovaGoogleMaps-for-android_ios.js",
       "pluginId": "cordova-plugin-googlemaps",
       "runs": true
+    },
+    {
+      "id": "cordova-plugin-inappbrowser-popup-bridge.inappbrowser",
+      "file": "plugins/cordova-plugin-inappbrowser-popup-bridge/www/inappbrowser.js",
+      "pluginId": "cordova-plugin-inappbrowser-popup-bridge",
+      "clobbers": [
+        "cordova.InAppBrowser.open",
+        "window.open"
+      ]
     }
   ],
   "plugin_metadata": {
     "cordova-plugin-whitelist": "1.3.3",
     "cordova-plugin-geolocation": "4.0.1",
-    "cordova-plugin-googlemaps": "2.5.0"
+    "cordova-plugin-googlemaps": "2.5.0",
+    "cordova-plugin-inappbrowser-popup-bridge": "1.0.18"
   }
 }
