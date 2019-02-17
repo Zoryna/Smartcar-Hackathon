@@ -7,28 +7,31 @@
   margin-top: 120px;
 }
 
-.accordian {
+.accordion {
   background-color: #404472; /*dark purple*/
   color: white;
 
   border: none;
   text-decoration: none;
-  display: inline-block;
   padding: 15px;
   font-size: 30px;
+
+  border: none;
+  outline: none;
 
   cursor: pointer;
   transition: 0.4s;
 }
 
-.dropsDown div {
-  background-color: #686C91; /*light purple*/
+.content {
+  background-color: #686C91; /*light purpsle*/
   margin-top: 15px;
   text-align: center;
+  display: none;
   overflow: hidden;
 }
 
-.dropsDown h1 {
+.content h1 {
   font-size: 20px;
   color: white;
 }
