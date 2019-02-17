@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Feb 17 08:26:10 CST 2019
+#Sun Feb 17 09:15:05 CST 2019
 56.path=lib/mips64/libtbxml.so
 5.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
 42.base=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/assets/debug
