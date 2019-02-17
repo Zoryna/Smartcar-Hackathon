@@ -1,0 +1,57 @@
+.dropsDown {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 120px;
+}
+
+.accordion {
+  background-color: #404472; /*dark purple*/
+  color: white;
+
+  border: none;
+  outline: none;
+  padding: 15px;
+  font-size: 30px;
+
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.accordion:active {
+  background-color: #1F2138; /*very dark purple*/
+}
+
+.content {
+  background-color: #686C91; /*light purple*/
+  text-align: center;
+  /*display: none;*/
+  overflow: hidden;
+}
+
+.content p {
+  font-size: 20px;
+  color: white;
+}
+
+#choose:active {
+  background-color: #1F2138; /*very dark purple*/
+  transition: 0.4s;
+}
+
+.toNext {
+  background-color: #3779B7; /*blue*/
+  color: white;
+
+  border: none;
+  text-decoration: none;
+
+  padding: 15px;
+  font-size: 25px;
+
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-top: 20px;
+}
