@@ -1,4 +1,4 @@
-#Sat Feb 16 16:46:37 CST 2019
+#Sat Feb 16 20:11:43 CST 2019
 base.0=/Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -9,6 +9,15 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.test"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyAJvu6NNm1yswEZ3tsKYzCC1CExZRUy4JA",
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.example.test"
     }
   },
   "dependent_plugins": {}

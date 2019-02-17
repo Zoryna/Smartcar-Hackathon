@@ -1,13 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1a6322d62b995771fb2b2cb7b8eb75dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/baf18128a85d8a23364cb31ecad855b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:2:102-128
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
@@ -40,10 +54,32 @@ ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/s
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:5:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1a6322d62b995771fb2b2cb7b8eb75dc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1a6322d62b995771fb2b2cb7b8eb75dc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/baf18128a85d8a23364cb31ecad855b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/baf18128a85d8a23364cb31ecad855b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 	android:label
@@ -78,15 +114,115 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
 	android:name
 		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:20-65
+uses-library#org.apache.http.legacy
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:14:9-88
+	android:required
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:14:61-85
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:14:23-60
 uses-sdk
-ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:7:5-9:41
+MERGED from [:tbxml-android:] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/a48a347c4e18afff7548dcc55570dad9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/845ca2ca66e6432ea03939568257471c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1a6322d62b995771fb2b2cb7b8eb75dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/1a6322d62b995771fb2b2cb7b8eb75dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/baf18128a85d8a23364cb31ecad855b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/baf18128a85d8a23364cb31ecad855b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/39db5ecf4869029711b460ba609f5dba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/62aa718d20b3a475232fc09131d404b6/AndroidManifest.xml:20:5-44
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
-INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7bd10bad9ce2727249970bae28695e3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8854cfee1f6be07f9572c57e97341cdd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:42-71
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
 	android:minSdkVersion
-		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:13:15-41
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:19:19-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b9a4510086571e565f15a075c1f0763e/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:21:52-75
+uses-feature#android.hardware.location
+ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:22:5-62
+	android:name
+		ADDED from /Users/linmaliakal/Desktop/Smartcar-Hackathon/platforms/android/app/src/main/AndroidManifest.xml:22:19-59
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/bdd398cec000849d0e075c008c9f80b3/AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a3eec4c3f3adb06c63b83caccf299599/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3ef4a5df56c9fe02393ffad2075de6fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e62c55aa9a1eb175de8c1fcf768e29/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/linmaliakal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cf3c85413288fdbe1a7ff75ca4aa4c59/AndroidManifest.xml:27:13-51
