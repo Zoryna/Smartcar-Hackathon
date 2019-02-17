@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-  <title>Home</title>
+  <title>Truck</title>
   <link rel="stylesheet" href="css/index.css">
 </head>
 
@@ -9,21 +9,28 @@
 
 
   <div class="dropsDown">
-    <button class="accordion" onClick="accordion();">Request Tow Truck</button>
+    <button class="accordion" onclick="accordion();">Request Tow Truck</button>
+
+    <div class="content" id="toggle">
+      <p>Service Name and Phone Number</p>
+    </div>
+    
+
     <div class="content">
-      <h1>Service Name and Phone Number</h1>
+      <p>Service Name and Phone Number</p>
     </div>
 
     <div class="content">
-      <h1>Service Name and Phone Number</h1>
+      <p>Service Name and Phone Number</p>
     </div>
 
-    <div class="content">
-      <h1>Service Name and Phone Number</h1>
+    <div class="circle-loader">
+      <div class="checkmark draw"></div>
     </div>
 
-    <button class="toNext">Next</button>
+    <button class="toNext" onclick="location.href='mechanic.html';">Next</button>
   </div>
+
 
   <script src="js/index.js"></script>
 </body>
