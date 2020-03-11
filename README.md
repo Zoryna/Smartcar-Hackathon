@@ -1,2 +1,2 @@
 # Smartcar-Hackathon
-Northwestern University Chicago Spring 2019 Hackathon
+Northwestern University Spring 2019 Hackathon
